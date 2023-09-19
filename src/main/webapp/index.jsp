@@ -340,7 +340,7 @@
 
     <div class="container">
         <footer class="footer">
-            &copy; ELPDevOps Software Services Pvt. Ltd. | Contact: 9059564278
+            &copy; ELPDevOps Software Services Pvt. Ltd. | Contact us at elp@gmail.com
         </footer>
     </div>
 </body>
