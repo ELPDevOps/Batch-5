@@ -6,11 +6,6 @@ pipeline {
         maven "maven 3.9.4"
     }
     stages {
-        stage('Clone the repository') {
-            steps {
-               git branch: 'master', url: 'https://github.com/ELPDevOps/Batch-5.git'
-            }
-        }
         stage('Build the maven code') {
             steps {
                 sh 'mvn clean install'
