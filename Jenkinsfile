@@ -6,7 +6,6 @@ pipeline {
         maven "maven 3.9.4"
     }
     stages {
-        }
         stage('Build the maven code') {
             steps {
                 sh 'mvn clean install'
