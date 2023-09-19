@@ -340,7 +340,7 @@
 
     <div class="container">
         <footer class="footer">
-            &copy; ELPDevOps Software Services Pvt. Ltd. | Contact: 99999999999999
+            &copy; ELPDevOps Software Services Pvt. Ltd. | Contact: 99999999
         </footer>
     </div>
 </body>
